@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenHouse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+80e375013470cbd1dfa3ab0ba5ee3880cf70fe75")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenHouse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenHouse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

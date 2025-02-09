@@ -8,7 +8,7 @@
     Title="GreenHouse">
 
     <ShellContent
-        ContentTemplate="{DataTemplate local:CrearCuenta}"
+        ContentTemplate="{DataTemplate local:NuevaPlanta}"
         Route="MainPage" />
 
 </Shell>
